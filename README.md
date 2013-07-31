@@ -13,4 +13,4 @@ A demo of the plugin can be found on [there](http://oelmekki.github.io/jquery.te
 
 ## Download extension
 
-You can download extension on [chrome webstore]().
+You can download extension on [chrome webstore](https://chrome.google.com/webstore/detail/github-textwrapper/ahmepogmgamaggfkhfnpghjceljjeamf?hl=en&gl=FR).
